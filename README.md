@@ -1,4 +1,5 @@
 # Molecular Properties Calculation for Electrolyte Research
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14454309.svg)](https://doi.org/10.5281/zenodo.14454309)
 
 This project focuses on calculating key properties of molecular components in electrolytes to aid research on electrolyte composition. The following table lists the calculated properties and the tools/methods used for each:
 
